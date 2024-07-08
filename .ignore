@@ -1,4 +1,8 @@
+/.git
 /.vscode
 /Content
+/DerivedDataCache
 /Intermediate
 /Saved
+/Plugins/TuioUnrealPlugin/Content
+/Plugins/TuioUnrealPlugin/Intermediate
